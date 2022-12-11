@@ -1,0 +1,63 @@
+[
+  {
+    "id": "id-ibc",
+    "name": "Tesla",
+    "price": 3000,
+    "honorary_code": "67276611",
+    "forState": "sold"
+  },
+  {
+    "id": "id-usd",
+    "name": "Putin\u0027s socks",
+    "price": 10000,
+    "forState": "in_stock"
+  },
+  {
+    "id": "id-abt",
+    "name": "Ford",
+    "price": 100,
+    "forState": "for_sale"
+  },
+  {
+    "id": "id-gew",
+    "name": "SONY",
+    "price": 1000,
+    "forState": "in_stock"
+  },
+  {
+    "id": "id-wee",
+    "name": "WOW",
+    "price": 500,
+    "forState": "for_sale"
+  },
+  {
+    "id": "id-ibc",
+    "name": "SpaceX",
+    "price": 0,
+    "forState": "for_sale"
+  },
+  {
+    "id": "id-usd",
+    "name": "Ezio\u0027s knife",
+    "price": 10000,
+    "forState": "in_stock"
+  },
+  {
+    "id": "id-abt",
+    "name": "Glasses",
+    "price": 100,
+    "forState": "for_sale"
+  },
+  {
+    "id": "id-gew",
+    "name": "XBox",
+    "price": 1000,
+    "forState": "in_stock"
+  },
+  {
+    "id": "id-wee",
+    "name": "Witcher3",
+    "price": 500,
+    "forState": "for_sale"
+  }
+]
